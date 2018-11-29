@@ -4323,4 +4323,70 @@ header.major h1:after, header.major h2:after, header.major h3:after, header.majo
 	font-size: 20px !important;
 }
 
+/*  new */
+
+.tighter {
+	width: 70%;
+	text-align: center;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+
+/* responsive review */
+
+@media screen and (max-width: 1280px) {
+	
+
+}
+
+@media screen and (max-width: 1080px) {
+	
+
+}
+
+@media screen and (min-width: 981px) {
+	
+
+	
+
+}
+
+@media screen and (max-width: 980px) {
+	
+
+	
+}
+
+@media screen and (min-width: 480px) {
+
+	
+
+}
+
+@media screen and (max-width: 480px) {
+
+	
+}
+
+
+@media screen and (max-width: 380px) {
+	
+
+}
+
+@media screen and (max-width: 350px) {
+	
+
+}
+
+@media screen and (min-width: 1800px) {
+	
+
+}
+
+@media screen and (min-width: 2400px) {
+	
+
+}
 
